@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+margin:0;
+padding:0;
+}
+
+.infocontainer {
+  padding-top: 7%;
+}
+
+.Info {
+  background-color: white;
+  display: flex;
+  width: 50%;
+  height: 20%;
+  margin-left: 23%;
+  margin-right: 25%;
+
+ }
+
+
+/* .infocontainer {
+  padding-top: 40px;
+}
+
+.Info {
+  width: 28%;
+  background-color: white;
+  display: flex;
+  margin-left: 14%;
+}
+
+.infoimg {
+  width: 9%;
+  margin-left: 30px;
+  margin-top: 10px;
+} */

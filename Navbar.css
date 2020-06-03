@@ -1,0 +1,24 @@
+.Navbarbody {
+  background-color: white;
+  display: flex;
+  padding: 8px 12px;
+}
+
+.Navbarlogo {
+  width: 5%;
+}
+
+.Navbartags {
+  display: flex;
+  margin-left: 30%;
+}
+
+.Navbaranchor {
+  margin-left: 60px;
+}
+
+.Navbarbtn {
+  margin-left: 20%;
+  background-color: #00a0e3;
+  color: white;
+}

@@ -1,0 +1,59 @@
+.companybody {
+  background-color: white;
+  display: flex;
+  width: 63%;
+  padding: 12px;
+  margin-top: 30px;
+  margin-left: 165px;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+   cursor: pointer;
+}
+
+.companyimg {
+  width: 10%;
+}
+
+.status {
+  background-color: white;
+  width: 17.5%;
+  height: 10%;
+  margin-top: 32px;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+   cursor: pointer;
+}
+
+.statusbutton {
+  margin-left: 40%;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  border: 1px solid #0e8611;
+  color: #0e8611;
+  background-color: white;
+}
+
+.statusinfo {
+  background-color: #f0f7fe;
+  padding-top: 10px;
+  margin-bottom: -20px;
+}
+
+.statuspara {
+  margin-left: 40%;
+  margin-bottom: 21px;
+}
+
+/* .companybodywritten {
+  margin-top: 10px;
+} */
+
+/* .featurebodyheading {
+  display: flex;
+}
+
+.featurebodytext {
+  display: flex;
+} */

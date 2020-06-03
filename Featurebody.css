@@ -1,0 +1,33 @@
+/* .wholefeature {
+  margin-left: 150px;
+} */
+
+.featurebody {
+  background-color: white;
+  display: flex;
+  width: 23%;
+  padding: 12px;
+  margin-top: 30px;
+  margin-left: 150px;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+   cursor: pointer;
+}
+
+.logoimg {
+  width: 27%;
+}
+
+.featurebodywritten {
+  padding-left: 20px;
+  margin-top: 20px;
+}
+
+/* .featurebodyheading {
+  display: flex;
+}
+
+.featurebodytext {
+  display: flex;
+} */

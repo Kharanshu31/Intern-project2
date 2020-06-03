@@ -1,0 +1,33 @@
+.searchcontainer {
+  display: flex;
+}
+
+.searchinput {
+  position: relative;
+  width: 33%;
+  padding-top: 15px;
+  margin-left: 12%;
+}
+
+::-webkit-input-placeholder {
+  font-size: 1.8rem;
+}
+
+.adjacentSearch {
+  width: 10%;
+  background-color: white;
+  box-sizing: border-box;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+}
+
+.searchimg {
+  width: 15%;
+  margin-top: 7px;
+  margin-left: 65px;
+}
+
+.Searchpara {
+  margin-top: 10px;
+  margin-left: 55px;
+}
